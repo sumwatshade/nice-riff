@@ -16,3 +16,6 @@ build/
 .gradle
 local.properties
 *.iml
+
+# Firebase
+**/**/firebase-debug.log
